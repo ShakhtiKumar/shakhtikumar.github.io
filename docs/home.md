@@ -1,7 +1,7 @@
-## SakthiKumar Docsify
-## The Documentation for Agile Practices
+## <span style="color:blue">SakthiKumar Docsify</span>
+## <span style="color:blue">The Documentation for Agile Practices</span>
 
-### What is Agile
+### <span style="color:blue">What is Agile</span>
 
 The Agile is a software methodology in which the software developmnet is done in an interative way.
 This is to provide  early business value to the customer.This has many advanatages like early detection of the risk
@@ -11,7 +11,7 @@ to get clear understanding of the requirements.
 The teams are self organising which enables them to deliver value faster.
 
 
-#### Agile Methodology Overview
+#### <span style="color:blue">Agile Methodology Overview</span>
 
 The Agile methodology was the direct result of the water fall approch of software development which was not 
 suitable to the dynamic nature of the market and digital technologies.

@@ -1,11 +1,11 @@
-# SoftwareCraftmanship Manifesto
+# </span>SoftwareCraftmanship Manifesto</span>
 
 > Software craftsmanship is an approach to software development that emphasizes the coding skills of the software developers. 
 	It is a response by software developers to the perceived ills of the mainstream software industry, 
 including the prioritization of financial concerns over developer accountability.
 
 
-From the Software Craftsmanship website http://manifesto.softwarecraftsmanship.org/
+> From the Software Craftsmanship website http://manifesto.softwarecraftsmanship.org/
 
 As aspiring Software Craftsmen we are raising the bar of professional software development by practicing it and helping others learn the craft. Through this work we have come to value:
 

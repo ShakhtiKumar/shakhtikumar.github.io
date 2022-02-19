@@ -1,6 +1,6 @@
-# Developer Best Parctices
+# <span style="color:blue">Developer Best Parctices</span>
 
-## Best practices in software engineering
+## <span style="color:blue">Best practices in software engineering</span>
 Develop iteratively  
 Manage requirements  
 Use component architecture  
