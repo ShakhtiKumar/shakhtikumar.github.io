@@ -1,4 +1,4 @@
-# <span style="color:blue">Developer Best Parctices</span>
+# <span style="color:blue">SoftwareEngineering Best Parctices</span>
 
 ## <span style="color:blue">Best practices in software engineering</span>
 Develop iteratively  
