@@ -1,6 +1,6 @@
-# Agile Manifesto
+# <span style="color:blue">Agile Manifesto</span>
 
-## Agile Manifesto Values
+## <span style="color:blue">Agile Manifesto Values</span>
 
 **Individuals and interactions**_over processes and tools_   
 **Working software over**_comprehensive documentation_  
@@ -11,7 +11,7 @@ That is, while there is value in the items on
 the right, we value the items on the left more.
 
 
-## Principles behind the Agile Manifesto
+## <span style="color:blue">Principles behind the Agile Manifesto</span>
 
 
 
