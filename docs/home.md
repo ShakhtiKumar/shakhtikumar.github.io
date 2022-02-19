@@ -1,6 +1,6 @@
 ## <span style="color:blue">SakthiKumar Docsify</span>
 ## <span style="color:blue">The Documentation for Agile Practices</span>
-
+    
 ### <span style="color:blue">What is Agile</span>
 
 The Agile is a software methodology in which the software developmnet is done in an interative way.
